@@ -4,7 +4,7 @@
 
 La calificación del curso será con base en su participación en clase, las tareas entrgadas y el proyecto final.
 
-Pueden consultar las calificaciones de sus tareas en [Calificaciónes](https://docs.google.com/spreadsheets/d/1hGv4RxkmWriI3za-buzzATnOC4GMpvOWVcKe_jGxOFU/edit?usp=sharing). Buscar a Crhistian para cualquier aclaración.
+Pueden consultar las calificaciones de sus tareas en [Calificaciones](https://docs.google.com/spreadsheets/d/1hGv4RxkmWriI3za-buzzATnOC4GMpvOWVcKe_jGxOFU/edit?usp=sharing). Buscar a Crhistian para cualquier aclaración.
 
 
 ## Bibliografía
